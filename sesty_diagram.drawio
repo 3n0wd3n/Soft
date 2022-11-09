@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T09:06:54.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HfWYqvj8a5gjMuLBmQpv" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T09:08:08.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ogSb7rtUBmfrfCsz2xgo" version="20.5.3" type="github">
   <diagram id="k3Jo0uC_nbTrlOhF7C3K" name="Stránka-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,10 +122,10 @@
         <mxCell id="6ZZP5vL4EGLWUWOe5d7C-1" value="&lt;b&gt;1&lt;/b&gt; sec/time: = time + &lt;b&gt;1&lt;/b&gt; second" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="225.5" y="470" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6ZZP5vL4EGLWUWOe5d7C-4" value="turn off the alarm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="6ZZP5vL4EGLWUWOe5d7C-4" value="turn &lt;b&gt;off&lt;/b&gt; the alarm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="399" y="557" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6ZZP5vL4EGLWUWOe5d7C-6" value="&lt;font color=&quot;#ffffff&quot;&gt;alarm off&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="6ZZP5vL4EGLWUWOe5d7C-6" value="&lt;font color=&quot;#ffffff&quot;&gt;alarm &lt;b&gt;off&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="295.5" y="530" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6ZZP5vL4EGLWUWOe5d7C-7" value="set time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
@@ -149,13 +149,13 @@
         <mxCell id="6ZZP5vL4EGLWUWOe5d7C-16" value="&lt;b&gt;30&lt;/b&gt; second from buzzing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="542" y="640" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6ZZP5vL4EGLWUWOe5d7C-17" value="&lt;font color=&quot;#ffffff&quot;&gt;alarm on&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="6ZZP5vL4EGLWUWOe5d7C-17" value="&lt;font color=&quot;#ffffff&quot;&gt;alarm &lt;b&gt;on&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="506.5" y="530" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6ZZP5vL4EGLWUWOe5d7C-18" value="&lt;font color=&quot;#ffffff&quot;&gt;rings&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="506.5" y="694" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6ZZP5vL4EGLWUWOe5d7C-20" value="set alarm off" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="6ZZP5vL4EGLWUWOe5d7C-20" value="set alarm&lt;b&gt; off&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="311.5" y="640" width="74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B3Akd6wOyCjDWJr605Az-1" value="&lt;b&gt;1&lt;/b&gt; sec/time: = time + &lt;b&gt;1&lt;/b&gt; second" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" vertex="1" parent="1">
