@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T09:13:01.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MLHptCEjz6_nYe6iYf2o" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T09:13:12.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lUnViSP94ngif2IgTH1v" version="20.5.3" type="github">
   <diagram id="k3Jo0uC_nbTrlOhF7C3K" name="Stránka-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,7 +159,7 @@
           <mxGeometry x="481.5" y="694" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6ZZP5vL4EGLWUWOe5d7C-20" value="turn alarm&lt;b&gt; off&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="285" y="640" width="75.5" height="20" as="geometry" />
+          <mxGeometry x="270" y="640" width="90.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="B3Akd6wOyCjDWJr605Az-1" value="&lt;b&gt;1&lt;/b&gt; sec/time = time + &lt;b&gt;1&lt;/b&gt; second" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="411.5" y="750" width="200" height="20" as="geometry" />
