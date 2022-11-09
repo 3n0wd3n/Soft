@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T09:13:12.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lUnViSP94ngif2IgTH1v" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T09:13:29.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WJC_K3UkgUbUUFUwocFJ" version="20.5.3" type="github">
   <diagram id="k3Jo0uC_nbTrlOhF7C3K" name="Stránka-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
           <mxGeometry x="442.5" y="572" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6ZZP5vL4EGLWUWOe5d7C-10" value="set time of wakeing up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="527.5" y="572" width="140" height="20" as="geometry" />
+          <mxGeometry x="541.5" y="572" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6ZZP5vL4EGLWUWOe5d7C-12" value="set time of wakeing up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="334" y="505" width="140" height="20" as="geometry" />
