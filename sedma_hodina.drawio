@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T09:12:39.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ME9I77F_zFrqdj3Gyhbf" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T09:13:25.245Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zqBNIoWhOz3Aj4Mb5Cbz" version="20.5.3" type="github">
   <diagram id="Fwy2gtFa3K8bNddK7Yr-" name="Stránka-1">
-    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -163,7 +163,7 @@
         <mxCell id="S5YQUfc60NxVx6nSIJzB-35" value="20 seconds to choose a drink" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="253.5" y="1012" width="159" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S5YQUfc60NxVx6nSIJzB-36" value="&lt;font color=&quot;#ffffff&quot;&gt;entry/amount = value of coin&lt;br&gt;coin insertion /amount = amount + value of coin&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;arcSize=0;" parent="1" vertex="1">
+        <mxCell id="S5YQUfc60NxVx6nSIJzB-36" value="&lt;font color=&quot;#ffffff&quot;&gt;entry/amount = value of coin&lt;br&gt;coin insertion /amount = amount + value of coin&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;arcSize=9;" parent="1" vertex="1">
           <mxGeometry x="542" y="1062" width="270" height="70" as="geometry" />
         </mxCell>
         <mxCell id="S5YQUfc60NxVx6nSIJzB-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.112;entryY=0.012;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#788AA3;fontColor=#46495D;entryPerimeter=0;" parent="1" target="S5YQUfc60NxVx6nSIJzB-36" edge="1">
