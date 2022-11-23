@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T09:05:15.476Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="FkapQLAEKSqqqo_kjoQd" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T09:06:34.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-VhWYtOtfBe3i6N6HJQc" version="20.6.0" type="github">
   <diagram id="gcqBo5jUVNCTthGwp96r" name="Stránka-1">
-    <mxGraphModel dx="856" dy="991" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="167" dy="193" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="FbC_VOOaL_V2Lu85fsyd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="397" y="1122" width="10" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="FbC_VOOaL_V2Lu85fsyd-6" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="FbC_VOOaL_V2Lu85fsyd-6" value="CUSTOMER" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="387" y="1022" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FbC_VOOaL_V2Lu85fsyd-9" value="&lt;u&gt;&lt;font color=&quot;#ffffff&quot;&gt;:SC&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
