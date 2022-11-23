@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T09:07:34.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0nqetfglZbQaOoJd5Wu3" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T09:07:44.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5miIfd3w6X1cJlUIvqe3" version="20.6.0" type="github">
   <diagram id="gcqBo5jUVNCTthGwp96r" name="Stránka-1">
-    <mxGraphModel dx="343" dy="397" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="856" dy="991" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,11 +126,6 @@
         </mxCell>
         <mxCell id="FbC_VOOaL_V2Lu85fsyd-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;numberOfGoods := findGoods(name)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#46495D;" parent="FbC_VOOaL_V2Lu85fsyd-40" vertex="1">
           <mxGeometry x="103" width="253" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FbC_VOOaL_V2Lu85fsyd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" parent="1" source="FbC_VOOaL_V2Lu85fsyd-42" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="972" y="1454" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="FbC_VOOaL_V2Lu85fsyd-42" value="&lt;u&gt;&lt;font color=&quot;#ffffff&quot;&gt;:Customer&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="917" y="1496" width="110" height="30" as="geometry" />
