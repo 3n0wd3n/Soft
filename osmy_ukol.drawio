@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T09:07:44.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5miIfd3w6X1cJlUIvqe3" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T09:08:34.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="HeQGusdbIuu18KqGa2AJ" version="20.6.0" type="github">
   <diagram id="gcqBo5jUVNCTthGwp96r" name="Stránka-1">
     <mxGraphModel dx="856" dy="991" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="FbC_VOOaL_V2Lu85fsyd-31" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;addGoods(numberOfGoods, count)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="447" y="1319" width="228" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FbC_VOOaL_V2Lu85fsyd-40" value="" style="group;fontColor=#46495D;" parent="1" vertex="1" connectable="0">
+        <mxCell id="FbC_VOOaL_V2Lu85fsyd-40" value="" style="group;strokeColor=#B9C9B8;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="347" y="1238" width="560" height="211.00000000000023" as="geometry" />
         </mxCell>
         <mxCell id="FbC_VOOaL_V2Lu85fsyd-33" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=1;fontSize=14;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="FbC_VOOaL_V2Lu85fsyd-40" edge="1">
