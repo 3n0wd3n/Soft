@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T09:02:40.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PbZbGJt2t3elaMK9wtuM" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T09:03:59.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ROUB7PNxaGMItd63P3cw" version="20.6.0" type="github">
   <diagram id="gcqBo5jUVNCTthGwp96r" name="Stránka-1">
     <mxGraphModel dx="856" dy="991" grid="1" gridSize="25" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="FbC_VOOaL_V2Lu85fsyd-9" value="&lt;u&gt;&lt;font color=&quot;#ffffff&quot;&gt;:SC&lt;/font&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="697" y="1132" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FbC_VOOaL_V2Lu85fsyd-11" value="&lt;b&gt;Kosik = &lt;font color=&quot;#67ab9f&quot;&gt;Shopping Cart (SC)&lt;/font&gt;&lt;br&gt;Zákazník = &lt;font color=&quot;#67ab9f&quot;&gt;Customer&lt;/font&gt;&lt;br&gt;Zboží = &lt;font color=&quot;#67ab9f&quot;&gt;Goods&lt;/font&gt;&lt;br&gt;Objednávka = &lt;font color=&quot;#67ab9f&quot;&gt;Order&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#46495D;" parent="1" vertex="1">
+        <mxCell id="FbC_VOOaL_V2Lu85fsyd-11" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Kosik &lt;/font&gt;= &lt;font color=&quot;#67ab9f&quot;&gt;Shopping Cart (SC)&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot;&gt;Zákazník &lt;/font&gt;= &lt;font color=&quot;#67ab9f&quot;&gt;Customer&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot;&gt;Zboží &lt;/font&gt;= &lt;font color=&quot;#67ab9f&quot;&gt;Goods&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ffffff&quot;&gt;Objednávka &lt;/font&gt;= &lt;font color=&quot;#67ab9f&quot;&gt;Order&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="612.5" y="849" width="409" height="130" as="geometry" />
         </mxCell>
         <mxCell id="FbC_VOOaL_V2Lu85fsyd-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=19;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.019;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#788AA3;fontColor=#46495D;" parent="1" source="FbC_VOOaL_V2Lu85fsyd-5" target="FbC_VOOaL_V2Lu85fsyd-9" edge="1">
