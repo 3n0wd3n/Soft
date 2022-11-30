@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T09:25:23.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="u9npD5KFw6sczRJUFzI1" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T09:28:29.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4wwl1hZ4mLLBoDLiLz5t" version="20.5.3" type="github">
   <diagram id="DPxvA7bRG5Nwy_jyV1-0" name="Stránka-1">
     <mxGraphModel dx="825" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -321,6 +321,15 @@
             <mxPoint x="340" y="790" as="sourcePoint" />
             <mxPoint x="390" y="740" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cOqHcEuYxocCmDUIh9o3-96" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.559;exitY=1.125;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cOqHcEuYxocCmDUIh9o3-82" target="cOqHcEuYxocCmDUIh9o3-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="710" as="sourcePoint" />
+            <mxPoint x="400" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cOqHcEuYxocCmDUIh9o3-97" value="availability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="569" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
