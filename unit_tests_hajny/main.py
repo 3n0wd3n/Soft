@@ -1,29 +1,28 @@
 import unittest
-from rodne_cislo import RodneCislo
+from rodne_cislo import PersonalId
 
 # python -m unittest -v test_main.py
 
 
-class TestRodneCislo(unittest.TestCase):
+class TestPersonalId(unittest.TestCase):
 
   def test_date(self):
-    rc = RodneCislo()
-    self.assertEqual(rc.datum_narozeni("000728/5707"), "28.7.2000")
-    self.assertEqual(rc.datum_narozeni("025226/5728"), "26.2.2002")
-    self.assertEqual(rc.datum_narozeni("026426/5728"), "bad input")
+    pid = PersonalId()
+    self.assertEqual(pid.birth_date("000728/5707"), "2000-7-28")
+    self.assertEqual(pid.birth_date("025226/5728"), "2002-2-26")
+    self.assertEqual(pid.birth_date("026426/5728"), "bad input")
 
   def test_gender(self):
-    rc = RodneCislo()
-    self.assertEqual(rc.pohlavi("000728/5707"), "muž")
-    self.assertEqual(rc.pohlavi("025226/5728"), "žena")
-    self.assertEqual(rc.pohlavi("026426/5728"), "bad input")
+    pid = PersonalId()
+    self.assertEqual(pid.gender("000728/5707"), "male")
+    self.assertEqual(pid.gender("025226/5728"), "female")
+    self.assertEqual(pid.gender("026426/5728"), "bad input")
 
   def test_over(self):
-    rc = RodneCislo()
-    self.assertEqual(rc.over("000728/5707"), True)
-    self.assertEqual(rc.over("025226/5728"), True)
-    self.assertEqual(rc.over("026426/5728"), False)
+    pid = PersonalId()
+    self.assertEqual(pid.is_valid("000728/5707"), True)
+    self.assertEqual(pid.is_valid("025226/5728"), True)
+    self.assertEqual(pid.is_valid("026426/5728"), False)
     
-
 
 unittest.main()
